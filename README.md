@@ -1,6 +1,8 @@
 ### Hi there 👋 I am Elbina Paudel
+
 # 💫 About Me:
-A passionate learner..
+
+A passionate learner....
 
 
 # 💻 Tech Stack:
