@@ -1,6 +1,7 @@
 ### Hi there 👋 I am Elbina Paudel
 # 💫 About Me:
-A passionate learner..
+"A passionate learner with a deep interest in discovering the latest technologies and applying them in innovative ways, I continuously strive to expand my knowledge and make a meaningful impact in my endeavors." 🚀
+
 
 
 ![Coding GIF](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
